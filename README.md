@@ -1,7 +1,7 @@
 # Maltimart Ecommerce
 
 ## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
+https://aesthetic-granita-80a500.netlify.app/
 
 ## 😎 Features
 
